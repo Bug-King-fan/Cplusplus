@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\C++项目\打飞机\打飞机\源.cpp(32,2): warning C4091: “typedef ”: 没有声明变量时忽略“plance”的左侧
+E:\C++项目\打飞机\打飞机\源.cpp(82,22): warning C4018: “>”: 有符号/无符号不匹配
+  打飞机.vcxproj -> E:\C++项目\打飞机\x64\Debug\打飞机.exe
