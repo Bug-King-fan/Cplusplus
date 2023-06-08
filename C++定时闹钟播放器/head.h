@@ -1,8 +1,8 @@
-#pragma once
+﻿#pragma once
 #include<iostream>
-#include<vector>
+#include<thread>
+#include<chrono>
 #include<Windows.h>
-#include<fstream>
 #include<random>
 #include<time.h>
 typedef  int(__stdcall* w32mci)(const char*, char*, int, int);
